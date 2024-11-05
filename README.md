@@ -1,2 +1,2 @@
-# letitai-java
-letitai java api
+# chatku ai
+ChatKu AI
